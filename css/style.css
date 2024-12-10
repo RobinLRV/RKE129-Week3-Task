@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Yuji+Mai&display=swap');
+
+body {
+    background-color: rgb(236, 236, 166);
+}
+
+.heading1 {
+    color: rgb(100, 72, 2);
+    text-align: center;
+    font-family: "Yuji Mai", serif;
+}
+
+.link {
+   display: block;
+   text-align: center;
+}
+
+.table {
+    width: 75%;
+    margin: auto;
+    color: rgb(133, 78, 7);
+}
+
+.container {
+    text-align: center;
+    color: rgb(133, 78, 7);
+}
+
+.list {
+    display: inline-block;
+    text-align: left;
+    
+}
+
+.list2 {
+    display: inline-block;
+    text-align: left;
+    width: 75%;
+}
+
+.table2 {
+    margin: auto;
+    color: rgb(133, 78, 7);
+    border-color: rgb(133, 78, 7);
+}
+
+.hr {
+    color: rgb(88, 46, 46);
+}
+
+.footer {
+    color: darkgoldenrod;
+    text-align: center;
+    font-family: "Caveat", cursive;
+    font-size: 2rem;
+}
